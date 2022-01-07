@@ -1,0 +1,2 @@
+Per verificare il contratto su BSCScan
+truffle run verify NFTSale --network bsc_testnet --license MIT
